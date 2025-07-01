@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Ravi Kumar",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "tech": ["React", "Node.js"],
+    "status": "Available",
+    "bio": "Frontend-focused developer with love for UX."
+  },
+  {
+    "id": 2,
+    "name": "Aanya Mehta",
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "tech": ["Python", "Django"],
+    "status": "Busy",
+    "bio": "Backend wizard and Django contributor."
+  },
+  {
+    "id": 3,
+    "name": "Samir Patel",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "tech": ["Vue", "Firebase"],
+    "status": "Available",
+    "bio": "Full-stack dev with love for startup products."
+  },
+  {
+    "id": 4,
+    "name": "Priya Sen",
+    "avatar": "https://i.pravatar.cc/150?img=4",
+    "tech": ["Angular", "TypeScript"],
+    "status": "Busy",
+    "bio": "Enterprise-grade developer with Angular focus."
+  },
+  {
+    "id": 5,
+    "name": "Karan Bhatia",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "tech": ["Java", "Spring Boot"],
+    "status": "Available",
+    "bio": "Java backend developer and performance optimizer."
+  },
+  {
+    "id": 6,
+    "name": "Neha Joshi",
+    "avatar": "https://i.pravatar.cc/150?img=6",
+    "tech": ["Flutter", "Dart"],
+    "status": "Available",
+    "bio": "Mobile developer specializing in cross-platform apps."
+  },
+  {
+    "id": 7,
+    "name": "Rohit Sharma",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "tech": ["React Native", "Redux"],
+    "status": "Busy",
+    "bio": "React Native pro building intuitive mobile UIs."
+  },
+  {
+    "id": 8,
+    "name": "Sneha Kapoor",
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "tech": ["Go", "Docker"],
+    "status": "Available",
+    "bio": "Go developer with container deployment skills."
+  },
+  {
+    "id": 9,
+    "name": "Aarav Malhotra",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "tech": ["Next.js", "MongoDB"],
+    "status": "Busy",
+    "bio": "Next.js enthusiast building SEO-optimized apps."
+  },
+  {
+    "id": 10,
+    "name": "Divya Verma",
+    "avatar": "https://i.pravatar.cc/150?img=10",
+    "tech": ["PHP", "Laravel"],
+    "status": "Available",
+    "bio": "Experienced PHP developer with secure coding habits."
+  },
+  {
+    "id": 11,
+    "name": "Amit Das",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "tech": ["Kotlin", "Android"],
+    "status": "Busy",
+    "bio": "Native Android developer with love for Kotlin."
+  },
+  {
+    "id": 12,
+    "name": "Meera Nair",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "tech": ["Ruby", "Rails"],
+    "status": "Available",
+    "bio": "Clean code advocate and Rails developer."
+  },
+  {
+    "id": 13,
+    "name": "Yash Thakur",
+    "avatar": "https://i.pravatar.cc/150?img=13",
+    "tech": ["C#", ".NET"],
+    "status": "Busy",
+    "bio": "Microsoft tech stack expert with backend focus."
+  },
+  {
+    "id": 14,
+    "name": "Isha Roy",
+    "avatar": "https://i.pravatar.cc/150?img=14",
+    "tech": ["HTML", "CSS"],
+    "status": "Available",
+    "bio": "Pixel-perfect frontend developer and designer."
+  },
+  {
+    "id": 15,
+    "name": "Rahul Sinha",
+    "avatar": "https://i.pravatar.cc/150?img=15",
+    "tech": ["Swift", "iOS"],
+    "status": "Busy",
+    "bio": "Swift developer creating elegant iOS apps."
+  },
+  {
+    "id": 16,
+    "name": "Tanvi Agarwal",
+    "avatar": "https://i.pravatar.cc/150?img=16",
+    "tech": ["SQL", "PostgreSQL"],
+    "status": "Available",
+    "bio": "Database architect with an eye for performance."
+  },
+  {
+    "id": 17,
+    "name": "Nikhil Jain",
+    "avatar": "https://i.pravatar.cc/150?img=17",
+    "tech": ["Rust", "WASM"],
+    "status": "Available",
+    "bio": "Systems-level coder passionate about Rust."
+  },
+  {
+    "id": 18,
+    "name": "Shruti Rao",
+    "avatar": "https://i.pravatar.cc/150?img=18",
+    "tech": ["GraphQL", "Apollo"],
+    "status": "Busy",
+    "bio": "API specialist and GraphQL advocate."
+  },
+  {
+    "id": 19,
+    "name": "Manav Kapoor",
+    "avatar": "https://i.pravatar.cc/150?img=19",
+    "tech": ["Elixir", "Phoenix"],
+    "status": "Available",
+    "bio": "Real-time app developer using Elixir & Phoenix."
+  },
+  {
+    "id": 20,
+    "name": "Ananya Sharma",
+    "avatar": "https://i.pravatar.cc/150?img=20",
+    "tech": ["Jenkins", "CI/CD"],
+    "status": "Busy",
+    "bio": "DevOps engineer automating all the things."
+  },
+  {
+    "id": 21,
+    "name": "Viraj Desai",
+    "avatar": "https://i.pravatar.cc/150?img=21",
+    "tech": ["Svelte", "Tailwind CSS"],
+    "status": "Available",
+    "bio": "Modern UI enthusiast with fast frontend stacks."
+  },
+  {
+    "id": 22,
+    "name": "Ira Menon",
+    "avatar": "https://i.pravatar.cc/150?img=22",
+    "tech": ["Perl", "Bash"],
+    "status": "Busy",
+    "bio": "Legacy system expert keeping old code running."
+  },
+  {
+    "id": 23,
+    "name": "Aditya Rao",
+    "avatar": "https://i.pravatar.cc/150?img=23",
+    "tech": ["Scala", "Akka"],
+    "status": "Available",
+    "bio": "Functional programmer and actor model fan."
+  },
+  {
+    "id": 24,
+    "name": "Kriti Deshmukh",
+    "avatar": "https://i.pravatar.cc/150?img=24",
+    "tech": ["R", "Shiny"],
+    "status": "Busy",
+    "bio": "Data scientist crafting interactive dashboards."
+  },
+  {
+    "id": 25,
+    "name": "Parth Gupta",
+    "avatar": "https://i.pravatar.cc/150?img=25",
+    "tech": ["TensorFlow", "Keras"],
+    "status": "Available",
+    "bio": "AI/ML engineer training neural networks."
+  },
+  {
+    "id": 26,
+    "name": "Sanya Dutt",
+    "avatar": "https://i.pravatar.cc/150?img=26",
+    "tech": ["JavaScript", "Three.js"],
+    "status": "Busy",
+    "bio": "3D web developer and creative coder."
+  },
+  {
+    "id": 27,
+    "name": "Arjun Singh",
+    "avatar": "https://i.pravatar.cc/150?img=27",
+    "tech": ["C++", "Qt"],
+    "status": "Available",
+    "bio": "Desktop developer with a passion for C++."
+  },
+  {
+    "id": 28,
+    "name": "Naina Kapoor",
+    "avatar": "https://i.pravatar.cc/150?img=28",
+    "tech": ["Power BI", "Excel"],
+    "status": "Busy",
+    "bio": "Data analyst transforming insights into visuals."
+  },
+  {
+    "id": 29,
+    "name": "Dev Mehta",
+    "avatar": "https://i.pravatar.cc/150?img=29",
+    "tech": ["Zig", "LLVM"],
+    "status": "Available",
+    "bio": "Low-level performance hacker exploring Zig."
+  },
+    {
+    "id": 30,
+    "name": "Simran Kaur",
+    "avatar": "https://i.pravatar.cc/150?img=30",
+    "tech": ["AWS", "Terraform"],
+    "status": "Available",
+    "bio": "Cloud infrastructure engineer focused on scalable deployments."
+  }
+]

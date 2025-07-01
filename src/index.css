@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@keyframes orbit {
+  0% {
+    transform: rotate(0deg) translateX(5rem) rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg) translateX(5rem) rotate(-360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 4s linear infinite;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
