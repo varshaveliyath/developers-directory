@@ -31,4 +31,4 @@ npm run dev
 
 ##  Live Demo
 
-You can view the live site here: [Vercel Demo Link](developers-directory-seven.vercel.app)
+You can view the live site here: [Vercel Demo Link](https://developers-directory-seven.vercel.app/)
