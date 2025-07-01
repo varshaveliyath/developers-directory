@@ -1,4 +1,4 @@
-# Developer Directory
+# Developers Directory
 
 A responsive React + TypeScript app to explore developer profiles with tech-based filtering and theme toggle.
 
